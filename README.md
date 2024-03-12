@@ -11,6 +11,8 @@
 
 #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) or use Docker
 
+## This is a fork! Please support the original project! ❤️
+
 ## Update Available V1.2.0 🚀 
 - [✔] Installation Bug Fixed
 - [x] Added New Tools 
